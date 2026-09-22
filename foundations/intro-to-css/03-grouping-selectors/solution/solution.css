@@ -1,7 +1,7 @@
 .inverted,
 .fancy {
-  font-family: Helvetica, "Times New Roman", sans-serif;
-  font-size: 28px;
+  font-family:  "Times New Roman";
+  font-size: 128px;
 }
 
 .inverted {
@@ -12,3 +12,4 @@
 .fancy {
   background-color: yellow;
 }
+
